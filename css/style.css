@@ -1,0 +1,15 @@
+@charset "UFT-8";
+
+body{
+    text-align: center;
+    background-image: url("../image/kokuban.PNG");
+}
+h2{
+    color:white;
+}
+h3{
+    color:white;
+}
+a{
+    color:white;
+}
